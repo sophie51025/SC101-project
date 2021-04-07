@@ -5,14 +5,14 @@ Watch my *[Demo videos]()*
 
 #Project Source Codes:
   *[Hangman Game]()*
-    -python semantics & syntax
+    python semantics & syntax
   *[Weather Master]()*
-    -python semantics & syntax
+    python semantics & syntax
   *[Break out game]()*
-    -animation & game designing
+    animation & game designing
   *[Pedestrain Removing Application]()*
-    -image processing
+    image processing
   *[Name searching system]()*
-    -data structure
+    data structure
   *[Boggle game / find anagram]()*
-    -recursive functions
+    recursive functions
